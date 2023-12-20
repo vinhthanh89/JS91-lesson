@@ -1,0 +1,13 @@
+.NameCard{
+    padding: 10px;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 5px;
+}
+.name{
+    font-weight: 900;
+    font-size: 30px;
+}
+.age{
+    font-style: italic;
+}
